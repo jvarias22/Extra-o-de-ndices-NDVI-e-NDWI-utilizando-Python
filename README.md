@@ -3,7 +3,9 @@ Artigo voltado para registrar como extrair Índices NDVI e NDWI de uma imagem Ra
 
 ## Importando os módulos necessários
 rasterio: leitura e manipulação de arquivos raster
+
 matplotlib.pyplot: gerar gráficos e mapas.
+
 função show do rasterio.plot: permite utilizar argumentos que facilitam a apresentação de informações.
 
 ```
